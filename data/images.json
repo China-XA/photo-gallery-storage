@@ -1,4 +1,14 @@
 {
-  "images": [],
-  "categories": []
+  "images": [
+    {
+      "id": 1778859702654,
+      "name": "微信图片_20260501180845_6_5.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/China-XA/photo-gallery-storage/main/images/1778859701611-微信图片_20260501180845_6_5.jpg?token=APKI52PJS5WD27KTSFMB4Q3KA47PE",
+      "uploadedAt": "2026-05-15T15:41:42.654Z",
+      "category": "未分类"
+    }
+  ],
+  "categories": [
+    "未分类"
+  ]
 }
