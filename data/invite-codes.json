@@ -8,5 +8,15 @@
     "usedCount": 5,
     "active": true,
     "createdBy": "admin"
+  },
+  {
+    "id": "1780589325436",
+    "code": "WFp3fBjq",
+    "createdAt": 1780589325436,
+    "expiresAt": 1781194125436,
+    "maxUses": 5,
+    "usedCount": 0,
+    "active": true,
+    "createdBy": "admin"
   }
 ]
