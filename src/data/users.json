@@ -14,7 +14,19 @@
       "password": "12345678",
       "key": "a01c9hj",
       "role": "user",
-      "name": "123"
+      "name": "123",
+      "menuPermissions": {
+        "showMenuBar": true,
+        "enabledMenus": [
+          "upload",
+          "sync",
+          "scan",
+          "category",
+          "changePassword",
+          "export",
+          "import"
+        ]
+      }
     }
   ]
 }
