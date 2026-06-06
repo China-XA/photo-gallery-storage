@@ -1,14 +1,6 @@
 {
   "images": [
     {
-      "id": 3,
-      "name": "sample3.jpg",
-      "url": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
-      "rawUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
-      "uploadedAt": "2024-01-03T00:00:00Z",
-      "category": "风景"
-    },
-    {
       "id": 4,
       "name": "sample4.jpg",
       "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
