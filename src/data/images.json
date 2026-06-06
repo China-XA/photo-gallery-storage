@@ -1,9 +1,19 @@
 {
-  "images": [],
+  "images": [
+    {
+      "id": 1780753647451,
+      "name": "1.png",
+      "url": "https://cdn.jsdelivr.net/gh/China-XA/photo-gallery-storage/main/images/1780753646591-1.png?token=APKI52N6GPMLPXC3KP4V6EDKEQSSW",
+      "rawUrl": "https://raw.githubusercontent.com/China-XA/photo-gallery-storage/main/images/1780753646591-1.png?token=APKI52N6GPMLPXC3KP4V6EDKEQSSW",
+      "uploadedAt": "2026-06-06T13:47:27.451Z",
+      "category": "未分类"
+    }
+  ],
   "categories": [
     "风景",
     "动物",
     "人物",
-    "建筑"
+    "建筑",
+    "未分类"
   ]
 }
