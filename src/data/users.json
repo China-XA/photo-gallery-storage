@@ -33,7 +33,18 @@
       "password": "Wzqhzsc12345",
       "key": "gsxrfkf",
       "role": "user",
-      "name": "千百度"
+      "name": "千百度",
+      "menuPermissions": {
+        "showMenuBar": true,
+        "enabledMenus": [
+          "upload",
+          "scan",
+          "category",
+          "changePassword",
+          "export",
+          "import"
+        ]
+      }
     }
   ]
 }
