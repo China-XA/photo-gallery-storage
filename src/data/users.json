@@ -23,7 +23,8 @@
           "category",
           "changePassword",
           "export",
-          "import"
+          "import",
+          "scan"
         ]
       }
     },
