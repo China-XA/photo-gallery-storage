@@ -1,6 +1,14 @@
 {
   "images": [
     {
+      "id": 1780754989564,
+      "name": "1.png",
+      "url": "https://cdn.jsdelivr.net/gh/China-XA/photo-gallery-storage/main/images/1780754988719-1.png?token=APKI52POXAEHDF76RXSIXOTKEQVGS",
+      "rawUrl": "https://raw.githubusercontent.com/China-XA/photo-gallery-storage/main/images/1780754988719-1.png?token=APKI52POXAEHDF76RXSIXOTKEQVGS",
+      "uploadedAt": "2026-06-06T14:09:49.564Z",
+      "category": "未分类"
+    },
+    {
       "id": 1,
       "name": "sample1.jpg",
       "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
@@ -53,6 +61,7 @@
     "风景",
     "动物",
     "人物",
-    "建筑"
+    "建筑",
+    "未分类"
   ]
 }
